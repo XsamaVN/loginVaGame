@@ -1,0 +1,30 @@
+.khung{
+
+    position: relative;
+    display: revert;
+    width: 300px;
+    height: 380px;
+    border-radius: 29px 29px 29px 29px;
+    -moz-border-radius: 29px 29px 29px 29px;
+    -webkit-border-radius: 29px 29px 29px 29px;
+    border: 1px solid #ffffff;
+    -webkit-box-shadow: 0px 0px 45px -6px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 0px 45px -6px rgba(0,0,0,0.55);
+    box-shadow: 0px 0px 45px -6px rgba(0,0,0,0.55);
+    top: 270px;
+
+}
+.nhap{
+    position: relative;
+   border-radius: inherit;
+    text-align: start;
+}
+body{
+    background: url("8-bit-sky-clouds-pixels-landscape-artwork-1360159-wallhere.com (1).jpg");
+    background-size: cover;
+}
+input {
+    border-radius: 29px 29px 29px 29px;
+    height: 25px;
+    width: 200px;
+}
